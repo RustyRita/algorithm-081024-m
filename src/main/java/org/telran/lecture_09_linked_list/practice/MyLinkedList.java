@@ -85,7 +85,7 @@ class LinkedList {
     }
 
     // Удаление элемента по индексу
-    public Integer removeAt(int index) {
+    public Integer removeAt(final int index) {
         // TODO: напишите реализацию метода
         Node current = null;
         if (index == 0){
