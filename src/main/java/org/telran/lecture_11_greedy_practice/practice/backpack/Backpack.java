@@ -13,6 +13,7 @@ public class Backpack {
         Item[] items = new Item[]{ // Исходный набор предметов
                 new Item(),
                 new Item(),
+                new Item()
         };
         int totalWeight = 10; // Максимальная вместимость рюкзака
     }
